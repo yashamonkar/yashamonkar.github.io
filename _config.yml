@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PzzhgoEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
