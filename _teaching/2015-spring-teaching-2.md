@@ -8,10 +8,12 @@ date: 2019-01-01
 location: "New York City, USA"
 ---
 
-Lead Teaching Assistant for the Course - Environmental Data Analysis (EE4257). 
+Lead Teaching Assistant for the Course - Environmental Data Analysis (EE4257). Lecturer - Prof. Upmanu Lall
 
 Heading 1
 ======
+
+Class Size 50 Students. Responsibilities - Grading, Setting Homeworks, TA Hours. 
 
 Heading 2
 ======
