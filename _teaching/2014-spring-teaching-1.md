@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 1(Remove or add something)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
