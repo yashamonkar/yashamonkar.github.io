@@ -1,5 +1,5 @@
 ---
-title: "Lead Teaching Assistant - Spring 2020"
+title: "Lead Teaching Assistant - Spring 2019"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "New York City, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead Teaching Assistant for the Course - Environmental Data Analysis (EE4257). 
 
 Heading 1
 ======
