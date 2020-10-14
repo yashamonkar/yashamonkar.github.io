@@ -13,10 +13,8 @@ Lead Teaching Assistant for the Course - Environmental Data Analysis (EE4257). L
 Primary Responsibilities
 ======
 
-Class Size 50 Students. Responsibilities - Grading, Setting Homeworks, TA Hours. De-bugging code for Students. 
+The TA position involved being the sole TA for a class size of 50 Students. The Primary Responsibilities were - Grading, Setting Homeworks, TA Hours.
 
-Heading 2
-======
+The course involved teaching along with code based application of statistical methods. A lot of the time was spent in De-bugging code for Students. 
 
-Heading 3
-======
+
