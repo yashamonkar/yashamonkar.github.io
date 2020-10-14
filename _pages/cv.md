@@ -21,10 +21,11 @@ Academic Year 2020 - Cheung-Kong Innovation Doctoral Fellowship
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring-Summer-Fall 2017: Graduate Research Assistant
+  * Earth Institute, Columbia University
+  * Duties included: Coding.
+  * Grant: NBIM Grant to Columbia Water Center
+  * Supervisor: Professor Lall.
 
 * Fall 2015: Research Assistant
   * Github University
