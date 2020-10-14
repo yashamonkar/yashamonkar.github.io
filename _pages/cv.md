@@ -15,6 +15,10 @@ Education
 * M.S. in Earth and Environmental Engineering, Columbia University, 2018
 * Ph.D in Earth and Environmental Engineering, Columbia University, 2022 (expected)
 
+Fellowships
+======
+Academic Year 2020 - Cheung-Kong Innovation Doctoral Fellowship
+
 Work experience
 ======
 * Summer 2015: Research Assistant
