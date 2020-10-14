@@ -29,9 +29,9 @@ Work experience
   * Supervisor: Professor Lall.
 
 * Summer 2015: Intern
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Deepak Nitrite Limited, Maharashtra
+  * Duties included: Mapping out the Brine Distribution Network, Feasibility Study to change from batch to continuous production.
+  * Supervisor: Kumar Gogate
   
 Skills
 ======
