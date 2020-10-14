@@ -33,6 +33,10 @@ Work experience
   * Duties included: Mapping out the Brine Distribution Network, Feasibility Study to change from batch to continuous production.
   * Supervisor: Kumar Gogate
   
+* Summer 2014: Intern
+  * Johnson & Johnson, Maharashtra
+  * Duties included: Energy Balance across the plant, Develop Algorithm to reduce energy losses.
+  
 Skills
 ======
 * Skill 1
