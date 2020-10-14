@@ -23,11 +23,12 @@ Work experience
 ======
 * Spring-Summer-Fall 2017: Graduate Research Assistant
   * Earth Institute, Columbia University
-  * Duties included: Coding.
-  * Grant: NBIM Grant to Columbia Water Center
+  * Duties included: Bayesian Data Analysis, Exceedance Models,ML Models like Lasso, SVM and Clusters.
+  * Software: R, Stan, ArcGIS.
+  * Grant: Norges Bank Investment Management Grant to Columbia Water Center
   * Supervisor: Professor Lall.
 
-* Fall 2015: Research Assistant
+* Summer 2015: Intern
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
