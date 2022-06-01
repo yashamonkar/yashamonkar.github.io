@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "<a href="yashamonkar.github.io/images/Academic_CV.pdf" target="_blank">PDF.</a> Short description of portfolio item number 1<br/><img src='/images/Academic_CV.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Academic_CV.png'>"
 collection: portfolio
 ---
 
