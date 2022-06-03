@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD Student in the Earth and Environmental Engineering Department at Columbia University in the City of New York. My advisor is Prof. Upmanu Lall and I work at the Columbia Water Center. My research interests are in Water Resources with a focus on Climate Risk. My past research has been on Mining, Water Pollution and their interaction with local communities. 
+I am a fourth year PhD Student in the Earth and Environmental Engineering Department at Columbia University in the City of New York. 
+My advisor is Prof. Upmanu Lall and I work at the Columbia Water Center, Earth Institute.
+My research interests are in the Renewable Energy transition and Water Resources with a focus on Climate Risk. 
+My past research has been on Mining, Water Pollution and their interaction with local communities. 
+You can find my CV here. 
 
 In my free time, I explore all that New York City has to offer.  
