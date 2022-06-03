@@ -14,6 +14,8 @@ My research interests are in the Renewable Energy transition and Water Resources
 My past research has been on Mining, Water Pollution and their interaction with local communities. 
 You can find my <a href="yashamonkar.github.io/files/Academic_CV.pdf" target="_blank">CV</a>  here. 
 
+[Download paper here](http://yashamonkar.github.io/files/Academic_CV.pdf)
+
 #You can find my <a href="https://github.com/yashamonkar/yashamonkar.github.io/blob/master/files/Academic_CV.pdf">CV</a>  here. 
 
 
