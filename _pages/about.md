@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yash Vijay Amonkar"
+title: "Yash Amonkar"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
