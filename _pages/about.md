@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-.
 I recently received my Ph.D. in Environmental Engineering from Columbia University. 
 Prior to this, I completed my Master's at Columbia University and worked full-time at the Columbia Water Center. 
 I will join the Institute for the Environmental, UNC-Chapel Hill, as a Postdoctoral Research Associate this coming summer.
